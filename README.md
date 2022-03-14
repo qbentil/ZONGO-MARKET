@@ -28,7 +28,7 @@ ZONGO MARKET seeks to improve online sales and help admins to manage and maintai
     https://www.intelliwolf.com/how-to-install-xampp-step-by-step/
 
 **************************
-***Place zongo-market in the htdoc folder in the Xampp directory ***
+**Place zongo-market in the htdoc folder in the Xampp directory**
 **************************
 
 
