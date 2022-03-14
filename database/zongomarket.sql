@@ -19,10 +19,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `bentilzone`
+-- Database: `zongomarket`
 --
-CREATE DATABASE IF NOT EXISTS `bentilzone` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `bentilzone`;
+CREATE DATABASE IF NOT EXISTS `zongomarket` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `zongomarket`;
 
 -- --------------------------------------------------------
 
